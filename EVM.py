@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Tue Sep 05 14:10:11 2017
 
-@author: Arnav
-"""
 import sqlite3
 from sqlite3 import *
 import serial
